@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cbits", "Cbits\Cbits.csproj", "{31995FC9-9097-458C-B4F8-220075EF346E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31995FC9-9097-458C-B4F8-220075EF346E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31995FC9-9097-458C-B4F8-220075EF346E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31995FC9-9097-458C-B4F8-220075EF346E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{31995FC9-9097-458C-B4F8-220075EF346E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{31995FC9-9097-458C-B4F8-220075EF346E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{31995FC9-9097-458C-B4F8-220075EF346E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31995FC9-9097-458C-B4F8-220075EF346E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31995FC9-9097-458C-B4F8-220075EF346E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{31995FC9-9097-458C-B4F8-220075EF346E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{31995FC9-9097-458C-B4F8-220075EF346E}.Release|x86.ActiveCfg = Release|Any CPU
+		{31995FC9-9097-458C-B4F8-220075EF346E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2AC6316-9878-450A-8F68-490E610BD793}
+	EndGlobalSection
+EndGlobal
